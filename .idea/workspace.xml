@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec3271ac-4fc4-459b-a548-c9c695d43c07" name="Default Changelist" comment="" />
+    <list default="true" id="ec3271ac-4fc4-459b-a548-c9c695d43c07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -57,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Client.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="54" lean-forward="true" selection-start-column="54" selection-end-column="54" />
+              <caret column="54" selection-start-column="54" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -80,6 +82,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -98,6 +103,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -167,7 +173,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.regbogbot [stage]">
+    <configuration name="regbogbot [stage]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="stage" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="Main" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="regbogbot.funow.main" />
       <option name="VM_PARAMETERS" />
@@ -183,6 +208,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.regbogbot [stage]" />
         <item itemvalue="Kotlin.Main" />
       </list>
     </recent_temporary>
@@ -241,7 +267,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Client.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="54" lean-forward="true" selection-start-column="54" selection-end-column="54" />
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
         </state>
       </provider>
     </entry>
